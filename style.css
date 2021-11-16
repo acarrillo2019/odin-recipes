@@ -10,6 +10,11 @@ body {
     background-size: cover;
    }
 
+.dir {
+    padding-top: 30px;
+    color: white;
+}
+
 .fill { 
     min-height: 100%;
     height: 100%;
@@ -24,6 +29,12 @@ body {
     font-size: 150px;
     color: white;
 }
+
+.ing {
+    padding-top: 30px;
+    color: white;
+}
+
 
 @media screen and (max-width: 600px) {
     .main-title {
