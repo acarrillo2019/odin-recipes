@@ -2,6 +2,14 @@ html, body {
     height: 100%;
 }
 
+body {
+    background-image: url("images/heather-ford-pic.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+
 .fill { 
     min-height: 100%;
     height: 100%;
