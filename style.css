@@ -21,13 +21,14 @@ body {
 }
 
 .main-title-section {
-    height: 40%;
 }
 
 .main-title {
     font-family: 'Fleur De Leah', cursive;
     font-size: 150px;
     color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .ing {
